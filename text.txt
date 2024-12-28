@@ -1,0 +1,6 @@
+Will be using the transfer learning approach
+Transfer learning approach means that the learning algorithm can be used to train the learning algorithm for the training data.
+
+WE will be using teh vg16 model from the keras aplication
+
+In classification problem, the data validation is not much required
